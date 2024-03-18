@@ -1,0 +1,59 @@
+
+		shopping website
+
+
+		actor - customer,admin,saller,delivery agency
+		modules - 
+			login/registration
+			search
+			product details
+			manage product
+			manage category
+			add to cart
+			cancel order
+			place order
+			manage order
+			payment
+			order tracking
+			review
+			customer support
+
+
+
+		whatsapp
+		instragram
+		facebook
+		snapchat
+
+		zomato
+		amazon
+		ola/uber
+		
+		tops career center
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+		
